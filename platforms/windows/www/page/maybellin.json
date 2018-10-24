@@ -1,0 +1,19 @@
+﻿[
+	{
+	"id":"1",
+    "pag":"1",
+    "pasillo":"2",
+    "marca":"zapatos",
+    "codigo_barras":"123456",
+    "talla":"12-13",
+    "colores":"azul",
+    "corte":"textil",
+    "forro":"textil",
+    "plantilla":"textil",
+    "claves":"2PS2900",
+    "sugerido":"P2S4900",
+    "precio":"359.00",
+    "modelo":"5110",
+    "status":"0"
+    }
+]
